@@ -1,0 +1,1 @@
+# lab-analise-texto-azure
